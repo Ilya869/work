@@ -1,4 +1,4 @@
-# https://github.com/Ilya869/work.git
+# [Ссылка на проект](https://github.com/Ilya869/work.git)
 # work v0.0.1
 ## Name DONE
 - только кириллица;
