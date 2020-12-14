@@ -1,5 +1,5 @@
 # [Ссылка на проект](https://github.com/Ilya869/work.git)
-# work v0.0.2
+# work v0.0.3
 ## Name DONE
 - только кириллица;
 - первая буква заглавная;
